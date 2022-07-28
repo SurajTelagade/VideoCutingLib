@@ -7,9 +7,13 @@
         <entry key="..\:/MyVideoCutLib/app/src/main/res/menu/menu_video.xml" value="0.25416666666666665" />
         <entry key="..\:/MyVideoCutLib/app/src/main/res/xml/pro_path.xml" value="0.25416666666666665" />
         <entry key="..\:/MyVideoCutLib/app/src/main/res/xml/provider_path.xml" value="0.25416666666666665" />
+        <entry key="..\:/MyVideoCutLib/library/src/main/res/drawable/ic_done.xml" value="0.168" />
+        <entry key="..\:/MyVideoCutLib/library/src/main/res/drawable/progress.xml" value="0.168" />
+        <entry key="..\:/MyVideoCutLib/library/src/main/res/drawable/progress_bar_background.xml" value="0.168" />
+        <entry key="..\:/MyVideoCutLib/library/src/main/res/drawable/shape_circle_lib.xml" value="0.168" />
         <entry key="..\:/MyVideoCutLib/library/src/main/res/layout/activity_act_video_trimmer.xml" value="0.176" />
         <entry key="..\:/MyVideoCutLib/library/src/main/res/layout/activity_act_video_trimmer1.xml" value="0.24010416666666667" />
-        <entry key="..\:/MyVideoCutLib/library/src/main/res/layout/alert_convert.xml" value="0.2" />
+        <entry key="..\:/MyVideoCutLib/library/src/main/res/layout/alert_convert.xml" value="0.12" />
         <entry key="..\:/MyVideoCutLib/library/src/main/res/layout/progress_dialog.xml" value="0.25416666666666665" />
         <entry key="..\:/MyVideoCutLib/library/src/main/res/layout/view_video_controller.xml" value="0.1" />
         <entry key="..\:/MyVideoCutLib/library/src/main/res/menu/menu_done.xml" value="0.25416666666666665" />

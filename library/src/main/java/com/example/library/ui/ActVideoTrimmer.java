@@ -1,6 +1,7 @@
 package com.example.library.ui;
 
 import android.Manifest;
+import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.Context;
@@ -133,12 +134,14 @@ public class ActVideoTrimmer extends LocalizationActivity {
     private CustomProgressView progressView;
     private String fileName;
 
+    @SuppressLint("ResourceType")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_act_video_trimmer);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        //getSupportActionBar().setHomeAsUpIndicator(getResources().getColor(R.color.black));
         bundle = getIntent().getExtras();
         Gson gson = new Gson();
         String videoOption = bundle.getString(TrimVideo.TRIM_VIDEO_OPTION);

@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/VView"
     android:gravity="center_horizontal"
-    android:background="#303030"
+    android:background="@drawable/progress_bar_background"
     android:padding="14dp">
 
     <ProgressBar
@@ -20,7 +20,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="20dp"
         android:id="@+id/txt_process"
-        android:textColor="@color/colorWhite"
+        android:textColor="@color/colorBlack"
         android:text="@string/txt_trimming_video"/>
 
     <TextView

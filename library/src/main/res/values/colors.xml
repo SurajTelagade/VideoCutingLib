@@ -15,7 +15,7 @@
     <color name="colorThemeRed">#F00606</color>
     <color name="colorDefaultBg">#f8f9fa</color>
     <color name="colorGreyLt">#AD87868A</color>
-
+    <color name="black">#FF000000</color>
     <color name="background_video_color">#2f3031</color>
     <color name="background_progress_color">#6C6D6D</color>
     <color name="progress_color">#3F51B5</color>
